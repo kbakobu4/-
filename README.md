@@ -6,4 +6,5 @@
 ## Пример вкладки "Карта"
 ![Снимок экрана 2024-05-15 152538](https://github.com/kbakobu4/NAVIGATION-AND-TELEMETRY-UNIT-FOR-A-SMALL-UNMANNED-BOAT/assets/126556460/214934f0-d34c-4342-aaa7-9c251b7ed9be)
 
-
+Ссылка на видео тестирования:
+https://youtu.be/MMZDc8WMlvc?si=sFce0hk0v7UToLXv
